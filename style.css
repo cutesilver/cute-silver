@@ -11,9 +11,9 @@ body{
     /*background: #f12711;
     background: -webkit-linear-gradient(to right, #f5af19, #f12711);
     background: linear-gradient(to right, #f5af19, #f12711);*/
-    background: #23074d;
-    background: -webkit-linear-gradient(to right, #cc5333, #23074d);
-    background: linear-gradient(to right, #cc5333, #23074d);
+    background: #fc4a1a;
+    background: -webkit-linear-gradient(to right, #f7b733, #fc4a1a);
+    background: linear-gradient(to right, #f7b733, #fc4a1a);
 }
 .contenar{
     width: 85%;
