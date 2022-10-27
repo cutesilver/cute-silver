@@ -8,9 +8,12 @@
 }
 body{
     width: 100%;
-    background: #f12711;
-    background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f5af19, #f12711);
+    /*background: #f12711;
+    background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+    background: linear-gradient(to right, #f5af19, #f12711);*/
+    background: #23074d;
+    background: -webkit-linear-gradient(to right, #cc5333, #23074d);
+    background: linear-gradient(to right, #cc5333, #23074d);
 }
 .contenar{
     width: 85%;
@@ -40,7 +43,7 @@ body{
     
 }
 .color{
-    color: red;
+    color: #f5af19;
 }
 .image2{
     width: 100%;
